@@ -5,6 +5,7 @@
   text-align: center;
   padding: 0px;
   margin: 0px;
+  margin-right: 0px;
  }
 
 .navHeader {
@@ -38,12 +39,17 @@ padding: 0px;
 .portfolioPic {
     width: 200px;
     height: 200px;
-    background-color: purple;
+    background-color: gray;
     border: 1px solid black;
-    margin: 20px;
+    margin: 10px;
     text-align: center;
 }
 
-.messageHeight {
+.formBuffer {
+    margin-right: 40px;
+    margin-left: 40px;
+}
+
+.descriptionField {
     height: 200px;
 }
